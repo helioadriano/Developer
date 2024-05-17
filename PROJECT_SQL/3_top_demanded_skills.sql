@@ -23,5 +23,5 @@ LIMIT 5
 
 /*
 Here is the breakdown of the most demanded skills for data analysts in 2023
-SQL and Excel remain fundamental, emphasizing the need for string foundation
-Programing and Visualization tools like, Python, Tableau, and Power BI
+- **SQL** and **Excel** remain fundamental, emphasizing the need for strong foundational skills in data processing and spreadsheet manipulation.
+- **Programing** and **Visaulization Tools** like **Python**, **Tableau**, and **Power BI** are essentital, pointing towards the increasing importance of technical skills in data storytelling and decision.
