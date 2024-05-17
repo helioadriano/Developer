@@ -3,7 +3,7 @@ Dive in to the Market for Data related jobs!
 
 This project explores top-paying jobs, in-demand skills and where high demand meets high salary in data analytics.
 
-SQL queries? Check them out here: [[PROJECT_SQL]]([https://](https://github.com/helioadriano/Developer/tree/main/PROJECT_SQL))
+SQL queries? Check them out here: [[PROJECT_SQL]]((https://github.com/helioadriano/Developer/tree/main/PROJECT_SQL))
 
 # Background
 Driven by a quest to gain more knowledge and improve my sql skills I worked on this project to navigate the data analyst job market more effectively, to pinpoint top-paid and in-demand skills, streamlining other work to find optimal jobs and what skills each job requires.
