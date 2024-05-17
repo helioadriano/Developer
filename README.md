@@ -1,5 +1,5 @@
 # Introduction
-Dive in to the Market for Data related job!
+Dive in to the Market for Data related jobs!
 
 This project explores top-paying jobs, in-demand skills and where high demand meets high salary in data analytics.
 
