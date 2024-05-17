@@ -6,7 +6,7 @@ This project explores top-paying jobs, in-demand skills and where high demand me
 SQL queries? Check them out here: [[PROJECT_SQL]]([https://](https://github.com/helioadriano/Developer/tree/main/PROJECT_SQL))
 
 # Background
-Driven by a quest gain more knowledge and improve my sql skills I worked on this project to navigate the data analyst job market more effectively, to pinpoint top-paid and in-demand skills, streamlining other work to find optimal jobs and what skills each job requires.
+Driven by a quest to gain more knowledge and improve my sql skills I worked on this project to navigate the data analyst job market more effectively, to pinpoint top-paid and in-demand skills, streamlining other work to find optimal jobs and what skills each job requires.
 
 Data hails from [[SQL Course]](https://lukebarousse.com/sql). It is packed with insights on job titles, salaries, locations, and essental skills.
 
